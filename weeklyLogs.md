@@ -6,3 +6,5 @@ Week 3: Wrote the detailed plan and implementation steps explaining design choic
 
 Week 4: Create a project roadmap outlining dates expected for certain phases of the project to be completed.
 Created the Git repo for the project.
+
+Week 5: Setup the Jupyter Notebook and project infrastructure, dependencies, etc. Figured out how to authenticate with F1TV account to access the F1 public API. Started with initial data exploration taking in historical data and practice and qualifying data from the 2026 Italian GP.
